@@ -4,4 +4,4 @@
 <p align="center">💖 Thx for coming to my github.</p>
 
 
-![hits](https://img.shields.io/jsdelivr/gh/hm/Chocodochi247/Chocodochi247?color=r&label=hits&logo=hits&style=flat-square)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchocodochi247&count_bg=%2385D570&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
